@@ -47,7 +47,7 @@
 
 ![](https://latex.codecogs.com/gif.latex?Ent(D)=-\sum_{k=1}^{|y|}p_klog_2p_k)
 
-Pk表示的是：当前样本集合D中第k类样本所占的比例为Pk。
+Pk表示的是：当前样本集合D中第k类样本所占的比例为Pk。（假设每个类别一样多，类别越多，信息熵越大，这是减函数）
 
 **信息增益**
 
